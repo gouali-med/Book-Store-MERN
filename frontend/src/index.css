@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    
+    /* background-image: url("./assets/shunya-koide-1emWndlDHs0-unsplash.jpg"); */
+    background-color:#F5EE9E;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
